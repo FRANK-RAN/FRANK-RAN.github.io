@@ -5,4 +5,3 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 
-Hi, I am Frank Ran, a master student of Electrical and Computer Engineering at Rice University. My research interest is Efficient Large Language Model, Topic Segmentataion and Rumor Detection. 
