@@ -43,11 +43,7 @@ layout: default
     <!-- Education Section -->
     {% if page.education %}
       <h2>Education</h2>
-      <ul>
-        {% for edu in site.data.education %}
-          <li>{{ edu.degree }} - {{ edu.school }}</li>
-        {% endfor %}
-      </ul>
+      {% include education.liquid %}
     {% endif %}
 
 

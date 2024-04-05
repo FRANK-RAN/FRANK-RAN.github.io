@@ -23,6 +23,6 @@ Hi, I am Frank Ran (冉俊豪), a master student of [Electrical and Computer Eng
 
 Previously, I received my bachelor's degree in computer science and engineering from [The Chinese Univeristy of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
 
-I lived in the mountain city Chongqing for 18 years, in Shenzhen for 4 years, and in Houston for 'YEAR-2023' year(s).
+I lived in the mountain city Chongqing for 18 years, in Shenzhen for 4 years, and now live in Houston.
 
 

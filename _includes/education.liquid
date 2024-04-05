@@ -1,0 +1,15 @@
+<div class="education">
+  {% if site.data.education %}
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+        {% for edu in site.data.education %}
+          <tr>
+            <td>{{ edu.degree }} {{ edu.school }}</td>
+          </tr>
+        {% endfor %}
+      </table>
+    </div>
+  {% else %}
+    <p>No education data available.</p>
+  {% endif %}
+</div>
