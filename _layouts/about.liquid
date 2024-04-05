@@ -38,6 +38,17 @@ layout: default
       </div>
     {% endif %}
 
+    <!-- Education Section -->
+    {% if page.education %}
+      <h2>Education</h2>
+      <ul>
+        {% for edu in site.data.education %}
+          <li><strong>{{ edu.degree }}</strong> - {{ edu.school }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+
     <div class="clearfix">{{ content }}</div>
 
     <!-- News -->
