@@ -1,6 +1,5 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - FRANK-RAN
 
 github_repos:
   - alshedivat/al-folio
@@ -10,3 +9,5 @@ github_repos:
   - FortAwesome/Font-Awesome
   - jpswalsh/academicons
   - mathjax/MathJax
+  - FRANK-RAN/NeuralNetwork-Visualization
+
