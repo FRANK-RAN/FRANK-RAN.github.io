@@ -9,9 +9,8 @@ last_name: Ran
 email: jr151@rice.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hi, I am Frank Ran, a master of ECE at Rice University
-footer_text: >
-  Homepage of Frank Ran
-keywords: Junhao Ran, Frank Ran, Frank Junhao Ran, Rice University, CUHK
+footer_text: 
+keywords: Junhao Ran, Frank Ran
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: Ted.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
