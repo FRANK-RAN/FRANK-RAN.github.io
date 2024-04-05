@@ -41,7 +41,7 @@ layout: default
     <div class="clearfix">{{ content }}</div>
 
     <!-- Education Section -->
-    {% if page.education %}
+    {% if page.education and site.education.enabled %}
       <h2>Education</h2>
       {% include education.liquid %}
     {% endif %}
