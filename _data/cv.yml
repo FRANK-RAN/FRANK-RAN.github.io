@@ -24,7 +24,7 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: Data Lab at Rice University, Houston, TX
+      institution: DATA Lab at Rice University, Houston, TX
       year: Present
       description:
         - EHR Summarization using Large Language Model
