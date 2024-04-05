@@ -45,10 +45,11 @@ layout: default
       <h2>Education</h2>
       <ul>
         {% for edu in site.data.education %}
-          <li><{{ edu.degree }} - {{ edu.school }}</li>
+          <li>{{ edu.degree }} - {{ edu.school }}</li>
         {% endfor %}
       </ul>
     {% endif %}
+
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
