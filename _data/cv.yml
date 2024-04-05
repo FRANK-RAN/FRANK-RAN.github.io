@@ -3,7 +3,7 @@
   contents:
     - name: Full Name
       value: Frank Junhao Ran
-    - name: Contact Information
+    - name: Contact
       value: Junhao.Ran@rice.edu
     - name: Research Vision
       value: Understand Deep Learning and devise powerful & reliable deep learning solutions to real-world challenges
@@ -11,43 +11,35 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Electrical and Computer Engineering, Data Science Track
+    - title: Master of Electrical and Computer Engineering
       institution: Rice University, Houston, TX
       year: Current
       description:
-        - Focus on Deep Learning, Computer Vision, and Natural Language Processing
+        - Focus on Data Science, Deep Learning, and Natural Language Processing
     - title: B.Eng. in Computer Science and Engineering
       institution: The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), China
       year: Completed
-      description:
-        - Honors: Bo Wen Scholarship, Dean’s List, Undergraduate Research Awards
 
 - title: Experience
   type: time_table
   contents:
     - title: NLP Algorithm Engineer Intern
-      institution: Ping An Technology, China
-      year: Internship Period
+      institution: Ping An Technology, Shenzhen, China
+      year: 2023
       description:
         - End-to-End Topic Segmentation with Transformer for Long Sequence
         - Early Rumor Detection with Reinforcement Learning
+    
     - title: Research Assistant
-      institution: Shenzhen Research Institute of Big Data, China
-      year: 08/2021 - 01/2023
+      institution: Data Lab at Rice University, Houston, TX
+      year: 2023 - Present
       description:
-        - Hierarchical Transformer with Knowledge Guidance for Fine-Grained Image Recognition (FGIR)
+        - EHR Summarization using Large Language Model
 
-- title: Projects & Coursework
-  type: list
-  contents:
-    - AthenaLite: Investigating the Training of Reasoning Capabilities in Tiny Language Models | Co-developer
-    - Operating Systems: Individual Projects, Operating System Design and Implementation with C
 
 - title: Skills
   type: map
   contents:
-    - name: ML Algorithms & DL Architectures
-      value: Transformer, Reinforcement Learning, CNN, RNN
     - name: Programming Languages
       value: Python, Java, JavaScript, C, C++, CUDA, SQL (MySQL), Verilog
     - name: Libraries & Frameworks
