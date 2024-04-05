@@ -23,6 +23,13 @@
 - title: Experience
   type: time_table
   contents:
+      - title: Research Assistant
+      institution: Data Lab at Rice University, Houston, TX
+      year: Present
+      description:
+        - EHR Summarization using Large Language Model
+
+
     - title: NLP Algorithm Engineer Intern
       institution: Ping An Technology, Shenzhen, China
       year: 2023
@@ -30,11 +37,6 @@
         - End-to-End Topic Segmentation with Transformer for Long Sequence
         - Early Rumor Detection with Reinforcement Learning
     
-    - title: Research Assistant
-      institution: Data Lab at Rice University, Houston, TX
-      year: 2023 - Present
-      description:
-        - EHR Summarization using Large Language Model
 
 
 - title: Skills
