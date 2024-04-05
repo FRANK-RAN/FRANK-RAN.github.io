@@ -16,7 +16,6 @@ profile:
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-education: true # includes education
 ---
 
 Hi, I am Frank Ran, a master student of [Electrical and Computer Engineering at Rice University](https://eceweb.rice.edu/). My research interest is Efficient Large Language Model, Topic Segmentation and Rumor Detection. 
