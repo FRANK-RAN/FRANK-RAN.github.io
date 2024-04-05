@@ -19,6 +19,6 @@ social: true # includes social icons at the bottom of the page
 education: true # includes education
 ---
 
-Hi, I am Frank Ran, a master student of [Electrical and Computer Engineering at Rice University](https://eceweb.rice.edu/). My research interest is Efficient Large Language Model, Topic Segmentataion and Rumor Detection. 
+Hi, I am Frank Ran, a master student of [Electrical and Computer Engineering at Rice University](https://eceweb.rice.edu/). My research interest is Efficient Large Language Model, Topic Segmentation and Rumor Detection. 
 
 Previously, I received my bachelor's degree in computer science and engineering from [The Chinese Univeristy of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
