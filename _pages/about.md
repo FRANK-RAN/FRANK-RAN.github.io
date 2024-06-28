@@ -19,7 +19,11 @@ social: true # includes social icons at the bottom of the page
 education: true
 ---
 
+<<<<<<< HEAD
 Hi, I am Frank Ran (冉俊豪), a master student of [Electrical and Computer Engineering at Rice University](https://eceweb.rice.edu/). My research interest are **Long Context Language Model**, **Topic Segmentation**, **Rumor Detection**, and **AI in Healthcare**. 
+=======
+Hi, I am Frank Ran (冉俊豪), a master student of [Electrical and Computer Engineering at Rice University](https://eceweb.rice.edu/). My research interests include **Large Language Models** and **Retrieval-Augmented Generation**. Recently, I have been working on a scientific computing project using CUDA, and I find high-performance computing interesting!
+>>>>>>> fa5c78a (update summer intern)
 
 Previously, I received my bachelor's degree in computer science and engineering from [The Chinese Univeristy of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
 
