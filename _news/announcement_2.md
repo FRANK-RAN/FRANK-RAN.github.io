@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Join DATA Lab at Rice Univeristy, under supervision of [Prof. Xia Hu](https://cs.rice.edu/~xh37/index.html)
+Join DATA Lab at Rice Univeristy, under supervision of [Dr. Xia Hu](https://cs.rice.edu/~xh37/index.html)
 
