@@ -19,9 +19,12 @@ social: true # includes social icons at the bottom of the page
 education: true
 ---
 
-Hi, I am Frank Ran (冉俊豪), a master student of [Electrical and Computer Engineering at Rice University](https://eceweb.rice.edu/). My research interests center on creating efficient algorithms, especially for **Large Language Models** (LLMs), **Retrieval Augmented Generation** (RAG), and their applications in biomedical informatics, rumor detection, and scientific research. I also specialize in **scientific computing** and **system design**, aiming to accelerate scientific discovery.
-Previously, I received my bachelor's degree in computer science and engineering from [The Chinese Univeristy of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
+Hi, I am Frank Ran (冉俊豪), a Master’s student in [Electrical and Computer Engineering at Rice University](https://eceweb.rice.edu/). I previously earned my bachelor’s degree in computer science and engineering from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
 
-I lived in the mountain city Chongqing for 18 years, in Shenzhen for 4 years, and now live in Houston.
+My research interests focus on creating efficient algorithms, particularly in **Large Language Models** (LLMs), **Retrieval Augmented Generation** (RAG), and their applications in biomedical informatics, rumor detection, and scientific research. I also specialize in **Scientific Computing** and **System Design**, aiming to accelerate scientific discovery.
+
+
+I lived in the mountain city of Chongqing for 18 years, in Shenzhen for 4 years, and now reside in Houston. These diverse environments have shaped my approach to research, blending innovative thinking with practical problem-solving.
+
 
 
