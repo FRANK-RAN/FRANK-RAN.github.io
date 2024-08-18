@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Traffic Misinformation Detection using LLM
+title: Large Languge Models for Rare Disease Dignosis
 description: 
 importance: 1
 category: work

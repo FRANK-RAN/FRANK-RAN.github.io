@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Traffic Misinformation Detection using LLM
+title: Scientific Computing for Quantum Squeezing Measurement
 description: 
 importance: 1
 category: work
