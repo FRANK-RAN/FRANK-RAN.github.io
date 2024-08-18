@@ -24,7 +24,6 @@ Hi, I am Frank Ran (冉俊豪), a Master’s student in [Electrical and Computer
 My research interests focus on creating efficient algorithms, particularly in **Large Language Models** (LLMs), **Retrieval Augmented Generation** (RAG), and their applications in biomedical informatics, rumor detection, and scientific research. I also specialize in **Scientific Computing** and **System Design**, aiming to accelerate scientific discovery.
 
 
-I lived in the mountain city of Chongqing for 18 years, in Shenzhen for 4 years, and now reside in Houston. These diverse environments have shaped my approach to research, blending innovative thinking with practical problem-solving.
-
+I lived in the mountain city of Chongqing for 18 years, in Shenzhen for 4 years, and now reside in Houston. 
 
 
