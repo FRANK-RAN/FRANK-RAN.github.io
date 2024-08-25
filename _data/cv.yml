@@ -5,8 +5,6 @@
       value: Frank Junhao Ran
     - name: Contact
       value: Junhao.Ran@rice.edu
-    - name: Research Vision
-      value: Understand Deep Learning and devise powerful & reliable deep learning solutions to real-world challenges
 
 - title: Education
   type: time_table
@@ -27,7 +25,7 @@
       institution: DATA Lab at Rice University, Houston, TX
       year: Present
       description:
-        - EHR Summarization using Large Language Model
+        - Large Language Models and their applications in Healthcare
 
 
     - title: NLP Algorithm Engineer Intern
