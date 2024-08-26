@@ -2,7 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description:  Full list [Google Scholar](https://scholar.google.com/citations?user=3PZJXqMAAAAJ&hl=en). * indicates equal contributions.
+description: Full list available on [Google Scholar](https://scholar.google.com/citations?user=3PZJXqMAAAAJ). * indicates equal contributions.
+
 nav: true
 nav_order: 2
 ---
