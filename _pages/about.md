@@ -21,7 +21,6 @@ education: true
 
 Hi, I am Frank Ran (冉俊豪), a Master’s student in [Electrical and Computer Engineering at Rice University](https://eceweb.rice.edu/). I previously earned my bachelor’s degree in computer science and engineering from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
 
-My research interests focus on creating efficient algorithms, particularly in **Large Language Models** (LLMs), **Retrieval Augmented Generation** (RAG), and their applications in biomedical informatics, rumor detection, and scientific research. I also specialize in **Scientific Computing** and **System Design**, aiming to accelerate scientific discovery.
 
 
 I lived in the mountain city of Chongqing for 18 years, in Shenzhen for 4 years, and now reside in Houston. 
