@@ -18,22 +18,7 @@
       institution: The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), China
       year: Completed
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Assistant
-      institution: DATA Lab at Rice University, Houston, TX
-      year: Present
-      description:
-        - Large Language Models and their applications in Healthcare
 
-
-    - title: NLP Algorithm Engineer Intern
-      institution: Ping An Technology, Shenzhen, China
-      year: 2023
-      description:
-        - End-to-End Topic Segmentation with Transformer for Long Sequence
-        - Early Rumor Detection with Reinforcement Learning
     
 
 
