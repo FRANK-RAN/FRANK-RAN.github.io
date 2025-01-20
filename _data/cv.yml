@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Frank Junhao Ran
+      value: Junhao (Frank) Ran
     - name: Contact
       value: Junhao.Ran@rice.edu
 
@@ -13,7 +13,7 @@
       institution: Rice University, Houston, TX
       year: Current
       description:
-        - Focus on Data Science, Deep Learning, and Natural Language Processing
+        - Focus on Data Science, Large Language Models, and Natural Language Processing
     - title: B.Eng. in Computer Science and Engineering
       institution: The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), China
       year: Completed
