@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Our paper, **VisRAG: Vision-based Retrieval-Augmented Generation on Multi-Modal Documents**, has been **accepted** at the *International Conference on Learning Representations (ICLR)*.
+Our paper, **VisRAG: Vision-based Retrieval-Augmented Generation on Multi-Modal Documents**, has been **accepted** at the *International Conference on Learning Representations (ICLR 2025)*.
