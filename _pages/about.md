@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.rice.edu'>Rice University</a>
+subtitle: <a href='https://www.rutgers.edu/'>Rutgers University</a>
 
 
 profile:
@@ -19,9 +19,9 @@ social: true # includes social icons at the bottom of the page
 education: true
 ---
 
-Hi, I am Junhao (Frank) Ran, a Master’s student in [Electrical and Computer Engineering at Rice University](https://eceweb.rice.edu/). I previously earned my bachelor’s degree in computer science and engineering from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
+I am Frank Ran, a Ph.D. student in **Electrical and Computer Engineering** at [Rutgers University - New Brunswick](https://www.ece.rutgers.edu/). I am advised by Dr. [Bo Yuan](https://sites.google.com/site/boyuaneecs/home).
 
+Previously, I earned my master's degree in **Electrical and Computer Engineering** from [Rice University](https://www.rice.edu/) where I was advised by Dr. [Hanyu Zhu](https://zhugroup.rice.edu/) and Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). I received my bachelor's degree in **Computer Science and Engineering** from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
 
-I work with Dr. [Hanyu Zhu](https://zhugroup.rice.edu/) and Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) at Rice University. My research interests are efficient and trustworthy machine learning.
-
+My research interests are **efficient and trustworthy machine learning**.
 
