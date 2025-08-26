@@ -6,9 +6,9 @@ title: Frank Ran # the website title (if blank, full name will be used instead)
 first_name: Frank
 middle_name: Junhao
 last_name: Ran
-email: jr151@rice.edu
+email: junhao.ran@rutgers.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi, I am Frank Ran, a master of ECE at Rice University
+  Hi, I am Frank Junhao Ran, a PhD student in ECE at Rutgers University
 footer_text: 
 keywords: Frank Ran, Rice ECE, Rice University
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
