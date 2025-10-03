@@ -23,5 +23,5 @@ I am Frank Junhao Ran, a Ph.D. student in **Electrical and Computer Engineering*
 
 Previously, I earned my master's degree in **Electrical and Computer Engineering** from [Rice University](https://www.rice.edu/) where I was advised by Dr. [Hanyu Zhu](https://zhugroup.rice.edu/) and Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). I received my bachelor's degree in **Computer Science and Engineering** from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
 
-My research interests are **efficient and trustworthy machine learning**.
+My research interest is **efficient multimodal machine learning**.
 
